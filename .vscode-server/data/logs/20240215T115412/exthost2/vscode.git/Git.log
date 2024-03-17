@@ -1,0 +1,113 @@
+2024-02-15 11:57:04.723 [info] Log level: Info
+2024-02-15 11:57:04.723 [info] Validating found git in: "git"
+2024-02-15 11:57:04.723 [info] Using git "2.34.1" from "git"
+2024-02-15 11:57:04.723 [info] > git rev-parse --show-toplevel [25ms]
+2024-02-15 11:57:04.723 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-15 11:57:04.723 [info] Open repository: /home/spence8
+2024-02-15 11:57:04.723 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 11:57:04.723 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:04.723 [info] > git fetch [7ms]
+2024-02-15 11:57:04.726 [info] No remotes found in the git config file.
+2024-02-15 11:57:04.726 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-15 11:57:04.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [1ms]
+2024-02-15 11:57:04.728 [info] > git config --get commit.template [5ms]
+2024-02-15 11:57:04.731 [info] No remotes found in the git config file.
+2024-02-15 11:57:04.735 [info] > git config --get commit.template [2ms]
+2024-02-15 11:57:04.735 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [4ms]
+2024-02-15 11:57:04.735 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-15 11:57:04.740 [info] No remotes found in the git config file.
+2024-02-15 11:57:04.740 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 11:57:04.740 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [0ms]
+2024-02-15 11:57:04.744 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 11:57:04.746 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 11:57:04.748 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-15 11:57:04.751 [info] Open repository: /home/spence8/css-exercises
+2024-02-15 11:57:04.755 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 11:57:04.756 [info] > git config --get commit.template [2ms]
+2024-02-15 11:57:04.764 [info] > git status -z -uall [22ms]
+2024-02-15 11:57:04.764 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-15 11:57:04.808 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [45ms]
+2024-02-15 11:57:05.027 [warning] ENOENT: no such file or directory, open '/home/spence8/css-exercises/.git/refs/remotes/origin/main'
+2024-02-15 11:57:05.039 [info] > git rev-parse refs/remotes/origin/main [12ms]
+2024-02-15 11:57:05.042 [info] > git rev-parse --git-dir --git-common-dir [17ms]
+2024-02-15 11:57:05.046 [info] Open repository: /home/spence8/member-spencer-odin-recipes
+2024-02-15 11:57:05.051 [info] > git status -z -uall [10ms]
+2024-02-15 11:57:05.059 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-15 11:57:05.059 [info] > git config --get commit.template [10ms]
+2024-02-15 11:57:05.063 [info] > git config --get commit.template [6ms]
+2024-02-15 11:57:05.067 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-15 11:57:05.068 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:57:05.068 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-15 11:57:05.072 [warning] ENOENT: no such file or directory, open '/home/spence8/css-exercises/.git/refs/remotes/origin/main'
+2024-02-15 11:57:05.072 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-15 11:57:05.076 [info] Open repository: /home/spence8/ts-koan-for-mongodb
+2024-02-15 11:57:05.081 [info] > git rev-parse refs/remotes/origin/main [9ms]
+2024-02-15 11:57:05.084 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:05.087 [info] > git status -z -uall [3ms]
+2024-02-15 11:57:05.090 [info] > git status -z -uall [3ms]
+2024-02-15 11:57:05.095 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-02-15 11:57:05.095 [info] > git config --get commit.template [1ms]
+2024-02-15 11:57:05.097 [warning] ENOENT: no such file or directory, open '/home/spence8/ts-koan-for-mongodb/.git/refs/remotes/origin/main'
+2024-02-15 11:57:05.100 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2024-02-15 11:57:05.103 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-02-15 11:57:05.106 [info] > git status -z -uall [4ms]
+2024-02-15 11:57:05.144 [info] > git status -z -uall [38ms]
+2024-02-15 11:57:05.145 [info] > git config --get commit.template [34ms]
+2024-02-15 11:57:05.149 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:57:05.151 [warning] ENOENT: no such file or directory, open '/home/spence8/ts-koan-for-mongodb/.git/refs/remotes/origin/main'
+2024-02-15 11:57:05.152 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-02-15 11:57:05.155 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:05.344 [info] > git fetch [593ms]
+2024-02-15 11:57:05.344 [info] From https://github.com/TheOdinProject/css-exercises
+   a9f93b1..20d36ee  main       -> origin/main
+2024-02-15 11:57:05.351 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:05.351 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-02-15 11:57:05.355 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:05.616 [info] > git check-ignore -v -z --stdin [8ms]
+2024-02-15 11:57:05.617 [info] > git check-ignore -v -z --stdin [6ms]
+2024-02-15 11:57:05.617 [info] > git check-ignore -v -z --stdin [3ms]
+2024-02-15 11:57:05.617 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-15 11:57:05.703 [info] > git fetch [627ms]
+2024-02-15 11:57:05.703 [info] From https://github.com/FlatBallFlyer/ts-koan-for-mongodb
+   42ddecb..6a2171f  main                  -> origin/main
+ * [new branch]      FlatBallFlyer-patch-1 -> origin/FlatBallFlyer-patch-1
+   69a01d4..30f03a5  solved                -> origin/solved
+2024-02-15 11:57:05.709 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:05.710 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-15 11:57:05.714 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:05.982 [info] > git fetch [936ms]
+2024-02-15 11:57:05.988 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:05.988 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:57:05.992 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:06.516 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:06.516 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:57:06.520 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:06.848 [info] > git config --get commit.template [0ms]
+2024-02-15 11:57:06.851 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:57:06.854 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:07.062 [info] > git config --get commit.template [1ms]
+2024-02-15 11:57:07.065 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:57:07.068 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:10.629 [info] > git config --get commit.template [0ms]
+2024-02-15 11:57:10.632 [info] No remotes found in the git config file.
+2024-02-15 11:57:10.632 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [0ms]
+2024-02-15 11:57:10.647 [info] > git status -z -uall [13ms]
+2024-02-15 11:57:14.759 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2024-02-15 11:57:14.762 [info] > git merge-base refs/heads/main refs/remotes/origin/main [12ms]
+2024-02-15 11:57:14.765 [info] > git merge-base refs/heads/main refs/remotes/origin/main [18ms]
+2024-02-15 11:57:14.768 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2024-02-15 11:57:14.769 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [7ms]
+2024-02-15 11:57:14.769 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [1ms]
+2024-02-15 11:57:15.252 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-15 11:57:15.695 [info] > git config --get commit.template [0ms]
+2024-02-15 11:57:15.697 [info] No remotes found in the git config file.
+2024-02-15 11:57:15.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [0ms]
+2024-02-15 11:57:15.711 [info] > git status -z -uall [11ms]
+2024-02-15 11:57:20.756 [info] > git config --get commit.template [1ms]
+2024-02-15 11:57:20.759 [info] No remotes found in the git config file.
+2024-02-15 11:57:20.759 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [0ms]
+2024-02-15 11:57:20.773 [info] > git status -z -uall [11ms]
+2024-02-15 11:57:25.819 [info] No remotes found in the git config file.
+2024-02-15 11:57:25.820 [info] > git config --get commit.template [5ms]
+2024-02-15 11:57:25.820 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [1ms]
+2024-02-15 11:57:25.834 [info] > git status -z -uall [11ms]
