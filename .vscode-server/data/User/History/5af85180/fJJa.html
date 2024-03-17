@@ -42,7 +42,7 @@
 </body>
 
 <script>
-  let randomNumber = Math.floor(Math.random() * 100);
+  let randomNumber = Math.floor(Math.random()) + 1;
 
   const guesses = document.querySelector('.guesses');
   const lastResult = document.querySelector('.lastResult');
@@ -109,7 +109,7 @@
 	  guessField.focus();
 
 	  lastResult.style.backgroundColor = 'white';
-      console.log(randomNumber);
+
 	  randomNumber = Math.floor(Math.random() * 100) + 1;
   }
 </script>
