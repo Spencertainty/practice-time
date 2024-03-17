@@ -497,3 +497,15 @@ ls
 exit
 mh
 exit
+ls
+cd member-spencer-odin-recipes/
+ls
+cd
+ls
+mkdir fizz-buzz-program
+ls
+;s
+ls
+cd fizz-buzz-program/
+git clone git@github.com:Spencertainty/solving-fizz-buzz.git
+exit

@@ -12,3 +12,15 @@
 2024-03-16 21:22:44.118 [info] [127.0.0.1][45716093][ManagementConnection] New connection established.
 2024-03-16 21:22:44.325 [info] [127.0.0.1][fcc94a1b][ExtensionHostConnection] New connection established.
 2024-03-16 21:22:44.329 [info] [127.0.0.1][fcc94a1b][ExtensionHostConnection] <4787> Launched Extension Host Process.
+2024-03-16 21:28:44.110 [info] [127.0.0.1][fcc94a1b][ExtensionHostConnection] <4787> [0mGET /favicon.ico [33m404[0m 1.111 ms - 150[0m
+
+2024-03-16 21:28:45.807 [info] [127.0.0.1][fcc94a1b][ExtensionHostConnection] <4787> [0mGET /solving-fizz-buzz/img_la.jpg [33m404[0m 0.681 ms - 167[0m
+
+2024-03-16 21:29:03.001 [info] [127.0.0.1][fcc94a1b][ExtensionHostConnection] <4787> [0mGET /solving-fizz-buzz/img_la.jpg [33m404[0m 0.726 ms - 167[0m
+
+2024-03-16 21:29:54.268 [info] [127.0.0.1][fcc94a1b][ExtensionHostConnection] <4787> [0mGET /solving-fizz-buzz/img_la.jpg [33m404[0m 0.765 ms - 167[0m
+
+2024-03-16 21:29:57.676 [info] [127.0.0.1][fcc94a1b][ExtensionHostConnection] <4787> [0mGET /solving-fizz-buzz/img_la.jpg [33m404[0m 0.631 ms - 167[0m
+
+2024-03-16 22:01:40.082 [info] [127.0.0.1][45716093][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-16 22:01:40.147 [info] [127.0.0.1][fcc94a1b][ExtensionHostConnection] <4787> Extension Host Process exited with code: 0, signal: null.
