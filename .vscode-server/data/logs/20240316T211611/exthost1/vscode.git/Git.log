@@ -212,3 +212,75 @@ hint: See "git help submodule" for more information.
 2024-03-16 21:17:15.148 [info] > git status -z -uall [14ms]
 2024-03-16 21:17:16.141 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
 2024-03-16 21:17:16.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:17:16.149 [info] > git config --local branch.home.vscode-merge-base [1ms]
+2024-03-16 21:17:16.149 [warning] git config failed: Failed to execute git
+2024-03-16 21:17:16.152 [info] > git add -A -- . [20ms]
+2024-03-16 21:17:16.155 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [3ms]
+2024-03-16 21:17:16.158 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-03-16 21:17:16.158 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:17:16.158 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.158 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.168 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [12ms]
+2024-03-16 21:17:16.171 [info] > git config --get commit.template [0ms]
+2024-03-16 21:17:16.178 [info] > git config --get commit.template [3ms]
+2024-03-16 21:17:16.179 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [2ms]
+2024-03-16 21:17:16.184 [info] No remotes found in the git config file.
+2024-03-16 21:17:16.184 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [3ms]
+2024-03-16 21:17:16.187 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [3ms]
+2024-03-16 21:17:16.190 [info] > git config --local branch.home.vscode-merge-base [3ms]
+2024-03-16 21:17:16.190 [warning] git config failed: Failed to execute git
+2024-03-16 21:17:16.194 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [1ms]
+2024-03-16 21:17:16.197 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-03-16 21:17:16.197 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:17:16.198 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.198 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.204 [info] > git status -z -uall [13ms]
+2024-03-16 21:17:16.217 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [5ms]
+2024-03-16 21:17:16.220 [info] > git config --get commit.template [4ms]
+2024-03-16 21:17:16.220 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:17:16.225 [info] No remotes found in the git config file.
+2024-03-16 21:17:16.226 [info] > git config --local branch.home.vscode-merge-base [3ms]
+2024-03-16 21:17:16.226 [warning] git config failed: Failed to execute git
+2024-03-16 21:17:16.230 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [5ms]
+2024-03-16 21:17:16.233 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [4ms]
+2024-03-16 21:17:16.236 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-03-16 21:17:16.236 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:17:16.237 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.237 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.247 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:17:16.250 [info] > git status -z -uall [17ms]
+2024-03-16 21:17:16.251 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:17:16.254 [info] > git config --local branch.home.vscode-merge-base [0ms]
+2024-03-16 21:17:16.254 [warning] git config failed: Failed to execute git
+2024-03-16 21:17:16.258 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [1ms]
+2024-03-16 21:17:16.261 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-03-16 21:17:16.261 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:17:16.261 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.261 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.283 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [0ms]
+2024-03-16 21:17:16.288 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:17:16.292 [info] > git config --local branch.home.vscode-merge-base [1ms]
+2024-03-16 21:17:16.292 [warning] git config failed: Failed to execute git
+2024-03-16 21:17:16.295 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [1ms]
+2024-03-16 21:17:16.298 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-03-16 21:17:16.298 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:17:16.298 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.298 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.359 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [0ms]
+2024-03-16 21:17:16.363 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:17:16.366 [info] > git config --local branch.home.vscode-merge-base [1ms]
+2024-03-16 21:17:16.366 [warning] git config failed: Failed to execute git
+2024-03-16 21:17:16.369 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [1ms]
+2024-03-16 21:17:16.372 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-03-16 21:17:16.372 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:17:16.372 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:16.372 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:17:17.538 [info] > git ls-files --stage -- /home/spence8/function-scope/function-scope.html [2ms]
+2024-03-16 21:17:17.541 [info] > git cat-file -s 2fefa54500191c256d7b27eb0c8a943673cdf4b0 [0ms]
+2024-03-16 21:17:17.549 [info] > git show --textconv :function-scope/function-scope.html [2ms]
+2024-03-16 21:17:20.158 [info] > git config --get commit.template [1ms]
+2024-03-16 21:17:20.161 [info] No remotes found in the git config file.
+2024-03-16 21:17:20.161 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-16 21:17:20.177 [info] > git status -z -uall [13ms]
+2024-03-16 21:17:20.446 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:17:20.449 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [0ms]
