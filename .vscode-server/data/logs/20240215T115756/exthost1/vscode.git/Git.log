@@ -1,0 +1,90 @@
+2024-02-15 11:57:57.681 [info] Log level: Info
+2024-02-15 11:57:57.681 [info] Validating found git in: "git"
+2024-02-15 11:57:57.681 [info] Using git "2.34.1" from "git"
+2024-02-15 11:57:57.681 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-15 11:57:57.681 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2024-02-15 11:57:57.681 [info] Open repository: /home/spence8
+2024-02-15 11:57:57.681 [info] > git fetch [11ms]
+2024-02-15 11:57:57.681 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-15 11:57:57.681 [info] > git config --get commit.template [8ms]
+2024-02-15 11:57:57.684 [info] > git config --get commit.template [5ms]
+2024-02-15 11:57:57.687 [info] No remotes found in the git config file.
+2024-02-15 11:57:57.688 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 11:57:57.690 [info] No remotes found in the git config file.
+2024-02-15 11:57:57.690 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [4ms]
+2024-02-15 11:57:57.690 [warning] No such branch: mammajamma.
+2024-02-15 11:57:57.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [7ms]
+2024-02-15 11:57:57.697 [warning] No such branch: mammajamma.
+2024-02-15 11:57:57.698 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:57.698 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-15 11:57:57.701 [info] No remotes found in the git config file.
+2024-02-15 11:57:57.703 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-15 11:57:57.703 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [1ms]
+2024-02-15 11:57:57.703 [warning] No such branch: mammajamma.
+2024-02-15 11:57:57.712 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-15 11:57:57.718 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-15 11:57:57.722 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-15 11:57:57.732 [info] Open repository: /home/spence8/css-exercises
+2024-02-15 11:57:57.743 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-15 11:57:57.743 [info] > git config --get commit.template [6ms]
+2024-02-15 11:57:57.750 [info] > git status -z -uall [45ms]
+2024-02-15 11:57:57.751 [info] > git rev-parse --show-toplevel [5ms]
+2024-02-15 11:57:57.751 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-02-15 11:57:58.416 [info] > git fetch [684ms]
+2024-02-15 11:57:58.441 [info] > git check-ignore -v -z --stdin [21ms]
+2024-02-15 11:57:58.442 [info] > git check-ignore -v -z --stdin [19ms]
+2024-02-15 11:57:58.443 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:58.443 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2024-02-15 11:57:58.449 [info] Open repository: /home/spence8/member-spencer-odin-recipes
+2024-02-15 11:57:58.469 [info] > git rev-parse --show-toplevel [10ms]
+2024-02-15 11:57:58.470 [info] > git config --get commit.template [15ms]
+2024-02-15 11:57:58.474 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-02-15 11:57:58.474 [info] > git config --get commit.template [10ms]
+2024-02-15 11:57:58.477 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-15 11:57:58.480 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-15 11:57:58.484 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-02-15 11:57:58.485 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-15 11:57:58.489 [info] Open repository: /home/spence8/ts-koan-for-mongodb
+2024-02-15 11:57:58.498 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:58.500 [info] > git config --get commit.template [5ms]
+2024-02-15 11:57:58.509 [info] > git status -z -uall [6ms]
+2024-02-15 11:57:58.509 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-02-15 11:57:58.511 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:58.519 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-02-15 11:57:58.519 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:58.527 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:58.530 [info] > git status -z -uall [3ms]
+2024-02-15 11:57:58.554 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2024-02-15 11:57:58.599 [info] > git status -z -uall [30ms]
+2024-02-15 11:57:58.887 [info] > git fetch [398ms]
+2024-02-15 11:57:58.895 [info] > git config --get commit.template [3ms]
+2024-02-15 11:57:58.895 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:57:58.900 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:59.105 [info] > git check-ignore -v -z --stdin [13ms]
+2024-02-15 11:57:59.105 [info] > git check-ignore -v -z --stdin [10ms]
+2024-02-15 11:57:59.106 [info] > git check-ignore -v -z --stdin [7ms]
+2024-02-15 11:57:59.106 [info] > git check-ignore -v -z --stdin [4ms]
+2024-02-15 11:57:59.205 [info] > git fetch [755ms]
+2024-02-15 11:57:59.213 [info] > git config --get commit.template [4ms]
+2024-02-15 11:57:59.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:57:59.219 [info] > git status -z -uall [0ms]
+2024-02-15 11:58:00.050 [info] > git config --get commit.template [5ms]
+2024-02-15 11:58:00.051 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:58:00.056 [info] > git status -z -uall [1ms]
+2024-02-15 11:58:00.192 [info] > git show --textconv :.git/COMMIT_EDITMSG [5ms]
+2024-02-15 11:58:00.194 [info] > git ls-files --stage -- /home/spence8/.git/COMMIT_EDITMSG [3ms]
+2024-02-15 11:58:00.397 [info] > git config --get commit.template [3ms]
+2024-02-15 11:58:00.397 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2024-02-15 11:58:00.403 [info] > git status -z -uall [1ms]
+2024-02-15 11:58:00.516 [info] > git ls-files --stage -- /home/spence8/.git/COMMIT_EDITMSG [1ms]
+2024-02-15 11:58:00.521 [info] > git show --textconv :.git/COMMIT_EDITMSG [1ms]
+2024-02-15 11:58:00.551 [info] > git config --get commit.template [0ms]
+2024-02-15 11:58:00.554 [info] No remotes found in the git config file.
+2024-02-15 11:58:00.555 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [1ms]
+2024-02-15 11:58:00.555 [warning] No such branch: mammajamma.
+2024-02-15 11:58:00.575 [info] > git status -z -uall [18ms]
+2024-02-15 11:58:05.652 [info] > git config --get commit.template [1ms]
+2024-02-15 11:58:05.655 [info] No remotes found in the git config file.
+2024-02-15 11:58:05.656 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [0ms]
+2024-02-15 11:58:05.656 [warning] No such branch: mammajamma.
+2024-02-15 11:58:05.675 [info] > git status -z -uall [16ms]

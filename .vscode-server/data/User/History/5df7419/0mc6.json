@@ -1,0 +1,10 @@
+{
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "git.autofetch": true,
+    "liveServer.settings.donotVerifyTags": true
+}

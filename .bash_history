@@ -479,3 +479,21 @@ ls
 cd member-spencer-odin-recipes/
 git clone https://github.com/agile-learning-institute/member-spencer-odin-recipes.git
 exit
+git branch
+git branch -m mammajamma home
+ls
+cd member-spencer-odin-recipes/
+cd
+ls
+git branch -m mammajamma home
+git branch
+got branch help
+git branch help
+git clone git@github.com:Spencertainty/HTML-JS-Skeleton.git
+ls
+mkdir function-scope
+ls
+/bin/bash <(curl https://raw.githubusercontent.com/agile-learning-institute/mentorHub/main/mentorHub-developer-edition/install)
+exit
+mh
+exit

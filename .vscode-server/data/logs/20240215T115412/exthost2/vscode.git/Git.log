@@ -111,3 +111,31 @@
 2024-02-15 11:57:25.820 [info] > git config --get commit.template [5ms]
 2024-02-15 11:57:25.820 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/mammajamma refs/remotes/mammajamma [1ms]
 2024-02-15 11:57:25.834 [info] > git status -z -uall [11ms]
+2024-02-15 11:57:29.122 [info] > git add -A -- . [3211ms]
+2024-02-15 11:57:29.122 [info] warning: adding embedded git repository: css-exercises
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> css-exercises
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached css-exercises
+hint: 
+hint: See "git help submodule" for more information.
+warning: adding embedded git repository: member-spencer-odin-recipes
+warning: adding embedded git repository: ts-koan-for-mongodb
+2024-02-15 11:57:29.558 [info] > git show --textconv :.git/COMMIT_EDITMSG [4ms]
+2024-02-15 11:57:29.559 [info] > git ls-files --stage -- /home/spence8/.git/COMMIT_EDITMSG [2ms]
+2024-02-15 11:57:29.905 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-15 11:57:30.423 [info] > git config --get commit.template [5ms]
+2024-02-15 11:57:30.423 [info] > git config --get commit.template [1ms]
+2024-02-15 11:57:30.429 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-02-15 11:57:30.430 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-02-15 11:57:30.436 [info] > git status -z -uall [3ms]
+2024-02-15 11:57:30.437 [info] > git status -z -uall [1ms]
+2024-02-15 11:57:30.518 [info] > git ls-files --stage -- /home/spence8/.git/COMMIT_EDITMSG [1ms]
+2024-02-15 11:57:30.525 [info] > git show --textconv :.git/COMMIT_EDITMSG [1ms]

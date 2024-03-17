@@ -1,0 +1,405 @@
+2024-02-15 11:58:09.581 [info] Extension host with pid 2107 started
+2024-02-15 11:58:09.602 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-15 11:58:09.614 [info] Lock '/home/spence8/.vscode-server/data/User/workspaceStorage/8c357a76aa9e1951fe32bc68820aa2b4/vscode.lock': Lock acquired.
+2024-02-15 11:58:09.628 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-15 11:58:09.633 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-15 11:58:09.633 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-15 11:58:09.718 [info] Eager extensions activated
+2024-02-15 11:58:09.719 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-15 11:58:09.719 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-15 11:58:09.719 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-15 11:58:09.930 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8627
+2024-02-15 11:58:12.798 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8627
+2024-02-15 11:58:17.892 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8627
+2024-02-15 11:58:22.983 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 11:58:28.081 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 11:58:33.172 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 11:58:38.265 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 11:58:43.362 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 11:58:48.458 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:02:23.741 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:02:28.737 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:02:33.831 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:02:38.924 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:02:44.012 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:02:49.102 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:02:54.190 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:02:59.277 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:03:04.368 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:03:09.458 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:03:14.544 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:03:19.630 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:03:42.134 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:03:47.226 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:03:52.315 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:03:57.402 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:04:02.519 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:04:07.611 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:04:31.209 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:04:36.299 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:04:41.387 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:04:46.475 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:04:51.572 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:04:56.672 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:05:01.769 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:05:06.861 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:05:11.965 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:05:17.053 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:06:36.649 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:06:41.649 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:06:46.741 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:06:48.501 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:06:56.916 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:07:02.013 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:07:07.104 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8637
+2024-02-15 12:07:12.196 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:07:33.256 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:07:38.346 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:07:44.476 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:08:05.758 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:08:10.847 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:08:16.284 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:08:49.344 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:08:54.435 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:08:59.529 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:04.622 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:09.714 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:14.811 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:19.903 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:25.000 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:26.679 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-02-15 12:09:26.679 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-02-15 12:09:26.901 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-02-15 12:09:30.104 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:35.194 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:36.751 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:40.290 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:45.378 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:50.471 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:09:55.566 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:10:00.654 [warning] [Decorations] CAPPING events from decorations provider vscode.git 8638
+2024-02-15 12:10:01.472 [info] Extension host terminating: received terminate message from renderer
+2024-02-15 12:10:01.472 [info] Lock '/home/spence8/.vscode-server/data/User/workspaceStorage/8c357a76aa9e1951fe32bc68820aa2b4/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-02-15 12:10:01.492 [error] Canceled: Canceled
+	at new f (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at g.I [as value] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:927298)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:943089)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947930
+	at Array.forEach (<anonymous>)
+	at p.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947916)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:929310)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at o (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at g.cb (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:9874)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:7997)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:14073)
+	at s.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:17138)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:15590)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.acceptChunk (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11847)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11134)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19768)
+	at r.acceptFrame (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19574)
+	at i.n (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:18073)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:15293
+	at Socket.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:13198)
+	at Socket.emit (node:events:514:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-02-15 12:10:01.492 [error] Canceled: Canceled
+	at new f (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at g.I [as value] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:927298)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:943089)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947930
+	at Array.forEach (<anonymous>)
+	at p.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947916)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:929310)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at o (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at g.cb (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:9874)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:7997)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:14073)
+	at s.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:17138)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:15590)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.acceptChunk (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11847)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11134)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19768)
+	at r.acceptFrame (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19574)
+	at i.n (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:18073)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:15293
+	at Socket.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:13198)
+	at Socket.emit (node:events:514:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-02-15 12:10:01.492 [error] Canceled: Canceled
+	at new f (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at g.I [as value] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:927298)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:943089)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947930
+	at Array.forEach (<anonymous>)
+	at p.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947916)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:929310)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at o (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at g.cb (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:9874)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:7997)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:14073)
+	at s.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:17138)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:15590)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.acceptChunk (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11847)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11134)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19768)
+	at r.acceptFrame (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19574)
+	at i.n (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:18073)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:15293
+	at Socket.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:13198)
+	at Socket.emit (node:events:514:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-02-15 12:10:01.492 [error] Canceled: Canceled
+	at new f (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at set b [as b] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/github/dist/extension.js:2:322364)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/github/dist/extension.js:2:323005
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:1018251)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:943089)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947930
+	at Array.forEach (<anonymous>)
+	at p.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947916)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:929310)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at o (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at g.cb (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:9874)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:7997)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:14073)
+	at s.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:17138)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:15590)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.acceptChunk (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11847)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11134)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19768)
+	at r.acceptFrame (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19574)
+	at i.n (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:18073)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:15293
+	at Socket.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:13198)
+	at Socket.emit (node:events:514:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-02-15 12:10:01.493 [error] Canceled: Canceled
+	at new f (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at g.I [as value] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:927298)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:943089)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947930
+	at Array.forEach (<anonymous>)
+	at p.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947916)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:929310)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at o (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at g.cb (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:9874)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:7997)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:14073)
+	at s.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:17138)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:15590)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.acceptChunk (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11847)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11134)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19768)
+	at r.acceptFrame (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19574)
+	at i.n (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:18073)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:15293
+	at Socket.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:13198)
+	at Socket.emit (node:events:514:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-02-15 12:10:01.493 [error] Canceled: Canceled
+	at new f (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:140:45069)
+	at d.U (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:5557)
+	at T.<computed>.O.charCodeAt.T.<computed> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:147:3008)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174704)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at m.registerCommand.description (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:173466)
+	at s.h (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:175243)
+	at s.g (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174235)
+	at s.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:150:174142)
+	at Object.executeCommand (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:21634)
+	at set b [as b] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/github/dist/extension.js:2:322364)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/github/dist/extension.js:2:323005
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:1018251)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1972)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2188)
+	at Object.m [as dispose] (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:943089)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947930
+	at Array.forEach (<anonymous>)
+	at p.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:947916)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3650)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at c.<anonymous> (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/extensions/git/dist/main.js:2:929310)
+	at c.dispose (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:148:3747)
+	at o (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:30:754)
+	at g.cb (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:9874)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7808
+	at Array.map (<anonymous>)
+	at g.Y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:7795)
+	at g.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:156:8068)
+	at o.terminate (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:160:1513)
+	at t (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:9950)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:173:7997)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:14073)
+	at s.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:17138)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:15590)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at g.acceptChunk (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11847)
+	at g.value (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:105:11134)
+	at r.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at r.fire (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at r.z (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19768)
+	at r.acceptFrame (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:19574)
+	at i.n (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:18073)
+	at /home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:15293
+	at Socket.y (/home/spence8/.vscode-server/bin/903b1e9d8990623e3d7da1df3d33db3e42d80eda/out/vs/workbench/api/node/extensionHostProcess.js:170:13198)
+	at Socket.emit (node:events:514:28)
+	at addChunk (node:internal/streams/readable:324:12)
+	at readableAddChunk (node:internal/streams/readable:297:9)
+	at Readable.push (node:internal/streams/readable:234:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2024-02-15 12:10:01.493 [info] Extension host with pid 2107 exiting with code 0

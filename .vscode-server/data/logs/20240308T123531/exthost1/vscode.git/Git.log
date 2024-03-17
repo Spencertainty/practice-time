@@ -1,0 +1,20 @@
+2024-03-08 12:35:32.130 [info] Log level: Info
+2024-03-08 12:35:32.130 [info] Validating found git in: "git"
+2024-03-08 12:35:32.130 [info] Using git "2.34.1" from "git"
+2024-03-08 12:35:32.130 [info] > git rev-parse --show-toplevel [3ms]
+2024-03-08 12:35:32.131 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-03-08 12:35:32.139 [info] Open repository: /home/spence8/HTML-JS-Skeleton
+2024-03-08 12:35:32.146 [info] > git config --get commit.template [1ms]
+2024-03-08 12:35:32.150 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [2ms]
+2024-03-08 12:35:32.155 [info] > git status -z -uall [2ms]
+2024-03-08 12:35:32.162 [info] > git config --get commit.template [0ms]
+2024-03-08 12:35:32.165 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [1ms]
+2024-03-08 12:35:32.168 [info] > git status -z -uall [1ms]
+2024-03-08 12:35:32.658 [info] > git check-ignore -v -z --stdin [1ms]
+2024-03-08 12:35:37.946 [info] > git fetch [5807ms]
+2024-03-08 12:35:37.950 [info] > git config --get commit.template [1ms]
+2024-03-08 12:35:37.953 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [1ms]
+2024-03-08 12:35:37.956 [info] > git status -z -uall [1ms]
+2024-03-08 12:35:47.185 [info] > git config --get commit.template [1ms]
+2024-03-08 12:35:47.189 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [1ms]
+2024-03-08 12:35:47.193 [info] > git status -z -uall [1ms]
