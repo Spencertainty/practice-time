@@ -1,0 +1,91 @@
+2024-03-16 21:22:44.749 [info] Log level: Info
+2024-03-16 21:22:44.749 [info] Validating found git in: "git"
+2024-03-16 21:22:44.749 [info] Using git "2.34.1" from "git"
+2024-03-16 21:22:44.749 [info] > git rev-parse --show-toplevel [2ms]
+2024-03-16 21:22:44.749 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-03-16 21:22:44.749 [info] Open repository: /home/spence8
+2024-03-16 21:22:44.749 [info] > git fetch [13ms]
+2024-03-16 21:22:44.753 [info] > git rev-parse --show-toplevel [9ms]
+2024-03-16 21:22:44.754 [info] > git config --get commit.template [11ms]
+2024-03-16 21:22:44.755 [info] > git config --get commit.template [3ms]
+2024-03-16 21:22:44.759 [info] No remotes found in the git config file.
+2024-03-16 21:22:44.764 [info] No remotes found in the git config file.
+2024-03-16 21:22:44.764 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [6ms]
+2024-03-16 21:22:44.769 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [6ms]
+2024-03-16 21:22:44.770 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2024-03-16 21:22:44.774 [info] Open repository: /home/spence8/fizz-buzz-program/solving-fizz-buzz
+2024-03-16 21:22:44.779 [info] > git config --get commit.template [10ms]
+2024-03-16 21:22:44.780 [info] > git config --get commit.template [1ms]
+2024-03-16 21:22:44.782 [info] No remotes found in the git config file.
+2024-03-16 21:22:44.785 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [3ms]
+2024-03-16 21:22:44.790 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [5ms]
+2024-03-16 21:22:44.792 [warning] ENOENT: no such file or directory, open '/home/spence8/fizz-buzz-program/solving-fizz-buzz/.git/refs/remotes/origin/home'
+2024-03-16 21:22:44.793 [info] > git rev-parse refs/remotes/origin/home [1ms]
+2024-03-16 21:22:44.796 [info] > git status -z -uall [1ms]
+2024-03-16 21:22:44.803 [info] > git status -z -uall [15ms]
+2024-03-16 21:22:44.803 [info] > git config --get commit.template [1ms]
+2024-03-16 21:22:44.808 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [1ms]
+2024-03-16 21:22:44.811 [warning] ENOENT: no such file or directory, open '/home/spence8/fizz-buzz-program/solving-fizz-buzz/.git/refs/remotes/origin/home'
+2024-03-16 21:22:44.811 [info] > git rev-parse refs/remotes/origin/home [1ms]
+2024-03-16 21:22:44.814 [info] > git status -z -uall [1ms]
+2024-03-16 21:22:45.304 [info] > git check-ignore -v -z --stdin [1ms]
+2024-03-16 21:22:45.305 [info] > git check-ignore -v -z --stdin [5ms]
+2024-03-16 21:22:45.613 [info] > git fetch [839ms]
+2024-03-16 21:22:45.618 [info] > git config --get commit.template [2ms]
+2024-03-16 21:22:45.619 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-16 21:22:45.620 [warning] ENOENT: no such file or directory, open '/home/spence8/fizz-buzz-program/solving-fizz-buzz/.git/refs/remotes/origin/home'
+2024-03-16 21:22:45.621 [info] > git rev-parse refs/remotes/origin/home [1ms]
+2024-03-16 21:22:45.623 [info] > git status -z -uall [0ms]
+2024-03-16 21:22:46.695 [info] > git config --get commit.template [1ms]
+2024-03-16 21:22:46.697 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-16 21:22:46.699 [warning] ENOENT: no such file or directory, open '/home/spence8/fizz-buzz-program/solving-fizz-buzz/.git/refs/remotes/origin/home'
+2024-03-16 21:22:46.700 [info] > git rev-parse refs/remotes/origin/home [0ms]
+2024-03-16 21:22:46.702 [info] > git status -z -uall [1ms]
+2024-03-16 21:22:47.441 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [3ms]
+2024-03-16 21:22:47.444 [info] > git merge-base refs/heads/home refs/remotes/origin/home [3ms]
+2024-03-16 21:22:47.447 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [4ms]
+2024-03-16 21:22:47.450 [info] > git rev-list --count --left-right refs/heads/home...refs/remotes/origin/home [3ms]
+2024-03-16 21:22:47.450 [info] > git config --local branch.home.vscode-merge-base [1ms]
+2024-03-16 21:22:47.450 [warning] git config failed: Failed to execute git
+2024-03-16 21:22:47.453 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [0ms]
+2024-03-16 21:22:47.456 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-03-16 21:22:47.456 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:22:47.456 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:22:47.456 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:22:47.519 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [11ms]
+2024-03-16 21:22:47.530 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [8ms]
+2024-03-16 21:22:47.533 [info] > git config --local branch.home.vscode-merge-base [0ms]
+2024-03-16 21:22:47.533 [warning] git config failed: Failed to execute git
+2024-03-16 21:22:47.537 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [1ms]
+2024-03-16 21:22:47.540 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-03-16 21:22:47.540 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:22:47.540 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:22:47.540 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:22:47.663 [info] No remotes found in the git config file.
+2024-03-16 21:22:47.664 [info] > git config --get commit.template [4ms]
+2024-03-16 21:22:47.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [1ms]
+2024-03-16 21:22:47.681 [info] > git status -z -uall [14ms]
+2024-03-16 21:22:47.797 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:22:47.800 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:22:47.802 [info] > git config --local branch.home.vscode-merge-base [0ms]
+2024-03-16 21:22:47.802 [warning] git config failed: Failed to execute git
+2024-03-16 21:22:47.805 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [1ms]
+2024-03-16 21:22:47.808 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-03-16 21:22:47.808 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:22:47.808 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:22:47.808 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:22:48.031 [info] > git check-ignore -v -z --stdin [3ms]
+2024-03-16 21:22:52.688 [info] > git config --get commit.template [1ms]
+2024-03-16 21:22:52.691 [info] No remotes found in the git config file.
+2024-03-16 21:22:52.691 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-16 21:22:52.707 [info] > git status -z -uall [13ms]
+2024-03-16 21:22:52.819 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [1ms]
+2024-03-16 21:22:52.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [0ms]
+2024-03-16 21:22:52.825 [info] > git config --local branch.home.vscode-merge-base [0ms]
+2024-03-16 21:22:52.825 [warning] git config failed: Failed to execute git
+2024-03-16 21:22:52.828 [info] > git reflog refs/heads/home --grep-reflog=branch: Created from *. [1ms]
+2024-03-16 21:22:52.830 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [0ms]
+2024-03-16 21:22:52.830 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-03-16 21:22:52.830 [info] GitHistoryProvider:resolveHistoryItemGroupBase - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:22:52.830 [info] GitHistoryProvider:resolveHistoryItemGroupCommonAncestor - Failed to resolve history item group base for 'refs/heads/home'
+2024-03-16 21:22:53.819 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home [0ms]
