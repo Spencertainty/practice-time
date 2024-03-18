@@ -509,3 +509,5 @@ ls
 cd fizz-buzz-program/
 git clone git@github.com:Spencertainty/solving-fizz-buzz.git
 exit
+mkdir number-guessing-game
+exit
