@@ -54,3 +54,52 @@
 2024-03-19 14:14:44.436 [info] > git config --get commit.template [5ms]
 2024-03-19 14:14:44.436 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [1ms]
 2024-03-19 14:14:44.454 [info] > git status -z -uall [14ms]
+2024-03-19 14:14:47.160 [info] > git add -A -- . [22ms]
+2024-03-19 14:14:47.160 [info] warning: adding embedded git repository: rock-paper-scissors/rock-paper-scissors
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> rock-paper-scissors/rock-paper-scissors
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached rock-paper-scissors/rock-paper-scissors
+hint: 
+hint: See "git help submodule" for more information.
+2024-03-19 14:14:47.182 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [19ms]
+2024-03-19 14:14:47.185 [info] > git config --get commit.template [0ms]
+2024-03-19 14:14:47.191 [info] > git config --get commit.template [2ms]
+2024-03-19 14:14:47.191 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-19 14:14:47.211 [info] > git status -z -uall [17ms]
+2024-03-19 14:14:47.237 [info] > git merge-base refs/heads/home refs/remotes/number-guessing-game/home [1ms]
+2024-03-19 14:14:47.243 [info] > git rev-list --count --left-right refs/heads/home...refs/remotes/number-guessing-game/home [4ms]
+2024-03-19 14:14:47.244 [info] > git config --get commit.template [1ms]
+2024-03-19 14:14:47.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-19 14:14:47.264 [info] > git status -z -uall [15ms]
+2024-03-19 14:14:49.464 [info] > git config --get commit.template [0ms]
+2024-03-19 14:14:49.468 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-19 14:14:49.487 [info] > git status -z -uall [15ms]
+2024-03-19 14:14:51.977 [info] > git show --textconv HEAD:.vscode-server/data/logs/20240319T140401/exthost2/vscode.git/Git.log [7ms]
+2024-03-19 14:14:51.977 [info] > git ls-tree -l HEAD -- /home/spence8/.vscode-server/data/logs/20240319T140401/exthost2/vscode.git/Git.log [2ms]
+2024-03-19 14:14:52.488 [info] > git check-ignore -v -z --stdin [5ms]
+2024-03-19 14:14:54.499 [info] > git config --get commit.template [4ms]
+2024-03-19 14:14:54.499 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-19 14:14:54.517 [info] > git status -z -uall [15ms]
+2024-03-19 14:14:59.527 [info] > git config --get commit.template [4ms]
+2024-03-19 14:14:59.527 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-19 14:14:59.546 [info] > git status -z -uall [16ms]
+2024-03-19 14:15:04.552 [info] > git config --get commit.template [1ms]
+2024-03-19 14:15:04.555 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [1ms]
+2024-03-19 14:15:04.573 [info] > git status -z -uall [16ms]
+2024-03-19 14:15:09.584 [info] > git config --get commit.template [3ms]
+2024-03-19 14:15:09.585 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [0ms]
+2024-03-19 14:15:09.602 [info] > git status -z -uall [14ms]
+2024-03-19 14:15:14.614 [info] > git config --get commit.template [2ms]
+2024-03-19 14:15:14.617 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [1ms]
+2024-03-19 14:15:14.634 [info] > git status -z -uall [15ms]
+2024-03-19 14:15:19.647 [info] > git config --get commit.template [3ms]
+2024-03-19 14:15:19.647 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/home refs/remotes/home [1ms]
+2024-03-19 14:15:19.665 [info] > git status -z -uall [16ms]
