@@ -1,18 +1,20 @@
-2024-03-17 10:34:21.690 [info] Extension host with pid 2261 started
-2024-03-17 10:34:21.705 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2024-03-17 10:34:21.713 [info] Lock '/home/spence8/.vscode-server/data/User/workspaceStorage/780c4b8774eb61f5ce2a63d58620e677/vscode.lock': Lock acquired.
-2024-03-17 10:34:21.719 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
-2024-03-17 10:34:21.719 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2024-03-17 10:34:21.816 [info] Eager extensions activated
-2024-03-17 10:34:21.816 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2024-03-17 10:34:21.816 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2024-03-17 10:34:21.817 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
-2024-03-17 10:34:41.396 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
-2024-03-17 10:34:41.396 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
-2024-03-17 10:34:50.454 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
-2024-03-17 18:16:35.666 [info] Extension host terminating: received terminate message from renderer
-2024-03-17 18:16:35.666 [info] Lock '/home/spence8/.vscode-server/data/User/workspaceStorage/780c4b8774eb61f5ce2a63d58620e677/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
-2024-03-17 18:16:35.690 [error] Canceled: Canceled
+2024-03-19 14:04:02.170 [info] Extension host with pid 557 started
+2024-03-19 14:04:02.183 [info] Lock '/home/spence8/.vscode-server/data/User/workspaceStorage/780c4b8774eb61f5ce2a63d58620e677/vscode.lock': Lock acquired.
+2024-03-19 14:04:02.200 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-03-19 14:04:02.200 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-03-19 14:04:02.201 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-19 14:04:02.518 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-19 14:04:02.538 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-19 14:04:02.538 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-19 14:04:02.642 [info] Eager extensions activated
+2024-03-19 14:04:02.643 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-19 14:04:02.643 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-19 14:04:02.643 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-03-19 14:04:02.713 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-19 14:04:02.714 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-19 14:14:24.581 [info] Extension host terminating: received terminate message from renderer
+2024-03-19 14:14:24.581 [info] Lock '/home/spence8/.vscode-server/data/User/workspaceStorage/780c4b8774eb61f5ce2a63d58620e677/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-19 14:14:24.601 [error] Canceled: Canceled
 	at new $ (/home/spence8/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
 	at s.U (/home/spence8/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
 	at z.<computed>.T.charCodeAt.z.<computed> (/home/spence8/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
@@ -65,7 +67,7 @@
 	at readableAddChunk (node:internal/streams/readable:297:9)
 	at Readable.push (node:internal/streams/readable:234:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-03-17 18:16:35.690 [error] Canceled: Canceled
+2024-03-19 14:14:24.601 [error] Canceled: Canceled
 	at new $ (/home/spence8/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:140:45885)
 	at s.U (/home/spence8/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:5556)
 	at z.<computed>.T.charCodeAt.z.<computed> (/home/spence8/.vscode-server/bin/863d2581ecda6849923a2118d93a088b0745d9d6/out/vs/workbench/api/node/extensionHostProcess.js:147:3007)
@@ -120,4 +122,4 @@
 	at readableAddChunk (node:internal/streams/readable:297:9)
 	at Readable.push (node:internal/streams/readable:234:10)
 	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
-2024-03-17 18:16:35.705 [info] Extension host with pid 2261 exiting with code 0
+2024-03-19 14:14:24.607 [info] Extension host with pid 557 exiting with code 0
